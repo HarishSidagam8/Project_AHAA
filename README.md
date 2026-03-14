@@ -147,7 +147,7 @@ project-ahaa/
 4. Go to **Submit Idea** and enter a project idea
 5. See similar projects and AI suggestions
 6. Check out the **Knowledge Graph**
-
+**YouTube link:** https://youtu.be/KtFW_ThMwwU?si=8Yl5NNlRGOsVUqF1
 ---
 
 Built with ❤️ for Hackathon | Project AHAA © 2026
